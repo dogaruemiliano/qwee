@@ -2,9 +2,9 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
-  "name": "qwee",
-  "short_name": "qwee",
-  "start_url": "/?utm_source=web_app_manifest",
+  "name": "smart_home_app",
+  "short_name": "smart_home_app",
+  "start_url": "/smart-home-pages",
   "orientation": "portrait",
   "icons": [
     {
